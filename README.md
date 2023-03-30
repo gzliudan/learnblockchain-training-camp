@@ -2,6 +2,7 @@
 
 ## 作业
 
+- [第 4 周第 1 课](./Week4-1/Work.md)
 - [第 3 周第 2 课](./Week3-2/Work.md)
 - [第 3 周第 1 课](./Week3-1/Work.md)
 - [第 2 周第 2 课](./Week2-2/Work.md)
